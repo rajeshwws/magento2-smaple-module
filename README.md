@@ -1,1 +1,1 @@
-# magento2-sample-module- tes
+# magento2-sample-module
