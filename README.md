@@ -1,1 +1,1 @@
-# magento2-smaple-module
+# magento2-sample-module
